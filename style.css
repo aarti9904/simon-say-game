@@ -1,0 +1,73 @@
+.box{
+    height:100px;
+    width:100px;
+    border:10px solid gainsboro;
+    background-color: blueviolet;
+    margin: auto;
+
+}
+.game{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+h1{
+    margin: auto;
+    position: relative;
+    left:70px;
+}
+h2{
+    margin:auto;
+    position: relative;
+    left:70px;
+}
+.boxcontainer{
+    display: flex;
+}
+#green{
+    margin-right: 200px;
+    position: relative;
+    bottom:120px;
+
+    
+}
+.purple{
+    background-color: purple;
+}
+#purple{
+    margin-right: 200px;
+    position: relative;
+    bottom: 368px;
+   
+    margin-bottom: 17px;
+}
+.blue{  background-color: cadetblue;
+margin-top: 10px;}
+
+
+.pink{
+    background-color: pink;
+    margin-top: 10px;
+}
+.green{
+    background-color: lightgreen;
+    margin-top: 10px;
+}
+.flash{
+    background-color: red;
+}
+.userflash{
+    background-color: yellow;
+}
+#b34{
+    margin-right: 280px;
+    position: relative;
+    bottom: 10px;
+    
+}
+.score{
+    margin-left: 600px;
+    position: relative;
+    bottom: 150px;
+}
